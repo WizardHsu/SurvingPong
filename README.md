@@ -6,7 +6,7 @@ Design: Survive in the tons of Shooting Stars created by AI! Try to catch Pink S
 
 Screen Shot:
 
-![Screen Shot](screenShot.png)
+![Screen Shot](screenshot.png)
 
 How To Play:
 
