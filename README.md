@@ -13,7 +13,7 @@ How To Play:
 The player can use keys-WASD to control the pink paddle to move around.
 There are two kinds of balls in scene: Green Shooting Star and Pink Snitch.
 When the AI paddle collide with Pink Snitch, AI paddle would create two new Green Shooting Stars. At the time, you would get 2 points (shown on the top of screen).
-If the player collide with Green Shooting Stars, the paddle would become shorter. The player should try how many points he/she would get before destroyed.
+If the player collide with Green Shooting Stars, the paddle would become shorter. The player should try how many points he/she would get before destroyed. All the objects would stop when the game is ended.
 If the player coolide with Pink Snitch, some Green Shooting Stars would be destroyed to help the player survive longer.
 
 Visual Design:
